@@ -14,18 +14,20 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
 </div>
 
-## Funcionalidades
+# :hammer: Funcionalidades do projeto
 
-Insira o nome do item (ex: "Camisa") e a quantidade no formulário e clique no botão "Adicionar Item".
+`Funcionalidade 1`: Insira o nome do item (ex: "Camisa") e a quantidade no formulário e clique no botão "Adicionar Item".
 
 A tabela de estoque será atualizada com o nome e a quantidade do item adicionado.
 
-Para remover um item, clique no botão "Remover" ao lado dele na tabela.
+`Funcionalidade 2` : Para remover um item, clique no botão "Remover" ao lado dele na tabela.
 
 Esse é um sistema simples de controle de estoque e pode ser expandido com mais funcionalidades, como edição de itens, e muito mais.
 
-##    Acesso ao projeto
+# 📁 Acesso ao projeto
 
 ##    Desenvolvedores
 
 https://github.com/L1u2c
+
+| [<img src="L1u2c" width=115><br><sub>Lucas Jorge Silva</sub>](https://github.com/L1u2c) 
