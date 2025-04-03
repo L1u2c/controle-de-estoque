@@ -29,3 +29,9 @@ Esse é um sistema simples de controle de estoque e pode ser expandido com mais 
 ##    Desenvolvedores
 
 https://github.com/L1u2c
+
+https://github.com/RenanJacobsen
+
+https://github.com/RodrigoCAzevedo
+
+https://github.com/nicolasmafre
