@@ -29,5 +29,3 @@ Esse é um sistema simples de controle de estoque e pode ser expandido com mais 
 ##    Desenvolvedores
 
 https://github.com/L1u2c
-
-| [<img src="L1u2c" width=115><br><sub>Lucas Jorge Silva</sub>](https://github.com/L1u2c) 
